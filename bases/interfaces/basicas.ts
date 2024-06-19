@@ -1,5 +1,5 @@
 (() => {
-    console.log('Interfaces Básicas');
+    // console.log('Interfaces Básicas');
 
 
     interface Hero {
