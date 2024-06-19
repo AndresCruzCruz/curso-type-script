@@ -10,7 +10,7 @@
 
     let noName: any;
 
-    const name = fullName(noName, 'Kent');
-    console.log(name);
+    // const name = fullName(noName, 'Kent');
+    // console.log(name);
 
 })();
